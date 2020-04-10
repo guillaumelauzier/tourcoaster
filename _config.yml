@@ -26,7 +26,7 @@ company_name: TourCoaster
 address_line: Rue de montchoisy, 1207 Geneva
 telephone_number: 
 company_email: info@tourcoaster.com
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
+google_map: https://maps.googleapis.com/maps/api/js?key=AIzaSyBuJxv_VLeQJUAwSsfV1Idc10kSI21la3g&q=46.203195,%206.159993&z=17&t=h&output=embed
 
 # Social Link
 facebook_link: http://www.facebook.com/tourcoaster
